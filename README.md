@@ -1,6 +1,7 @@
 # mysqlspringboot
 CRUD operations using Spring Boot and Docker
 <br/>
+<br/>
 Spring Boot annotations:<br/>
 @Entity: Tells Hibernate to make a table out of this class <br/>
 @Id: Primary key for the table<br/>
